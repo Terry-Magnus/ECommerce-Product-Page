@@ -1,4 +1,4 @@
-Frontend Mentor - E-commerce product page solution
+#Frontend Mentor - E-commerce product page solution
 This is a solution to the E-commerce product page challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 The challenge
