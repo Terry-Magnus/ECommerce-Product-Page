@@ -15,7 +15,8 @@ Design Preview
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
 
 ## Live Preview
-https://github.com/
+https://terry-magnus.github.io/ECommerce-Product-Page/
+
 ## Built with
 HTML, CSS and Vanilla JS
 Author
