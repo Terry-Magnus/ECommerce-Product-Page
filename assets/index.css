@@ -187,7 +187,7 @@ span#price {
 }
 /*Lightbox section*/
 main {
-  margin: 15vh 5vw;
+  margin: 10vh 5vw;
   flex-direction: column;
   display: flex;
 }
@@ -195,10 +195,10 @@ main {
   margin-right: auto;
   margin-left: auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .product-views {
-  width: 45%;
+  width: 35%;
 }
 .carousel {
   overflow: hidden;
@@ -256,7 +256,7 @@ main {
   margin: auto;
   padding: 0;
   width: 40%;
-  max-width: 500px;
+  max-width: 400px;
 }
 .close {
   position: absolute;
@@ -462,7 +462,7 @@ input[type="number"]::-webkit-outer-spin-button {
   }
   .carousel-controls {
     display: flex;
-    transform: translateY(-50%);
+    top: 70%;
   }
   .lightbox-content {
     width: 90%;
@@ -486,5 +486,10 @@ input[type="number"]::-webkit-outer-spin-button {
   .btn-add {
     width: 100%;
     margin-bottom: 10px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .carousel-controls {
+    top: 40%;
   }
 }
